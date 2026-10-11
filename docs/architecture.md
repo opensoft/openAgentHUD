@@ -115,4 +115,3 @@ terminal concerns:
 - Make network usage explicit and opt-in.
 - Keep account credentials in the agent's credential store; adapters receive
   only the minimum data needed to display a status.
-

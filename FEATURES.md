@@ -106,4 +106,3 @@ ordered by the value they provide and the foundation they require.
 - Do not fork or patch every agent CLI to render the HUD.
 - Do not expose prompt or response contents by default.
 - Do not claim that a cached or stale value is live.
-
